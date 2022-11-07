@@ -110,7 +110,7 @@ function largeur() {
 //Check d3
 d3.select("body")
     .append("div")
-    .text("Ok")
+    .text("")
     .attr("class", "check")
 
 //D3 barres
@@ -128,7 +128,7 @@ function creationbarre() {
             .enter()
             .append("p")
             .attr("class", "barre")
-            .html((d, i) => `<div class="nomlegend">Nom: ${d.Nom}</div> <div class="ranglegend"> Rang:${i + 1}</div> <div class="classlegend">${filtertable}:${d[filtertable][namejson[iteration - 1]]}% </div>   <img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt="">`)
+            .html((d, i) => `<img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt=""><div class="nomlegend">${d.Nom}</div> <div class="classlegend">${d[filtertable][namejson[iteration - 1]]}% </div> <div class="ranglegend">${i + 1}</div>   `)
         d3.select("#version")
             .html(namejson[iteration - 1])
         setTimeout(largeur, 300)
