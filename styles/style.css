@@ -135,6 +135,13 @@ li:hover {
   align-items: center;
 }
 /* Menu version*/
+.site-wrapper {
+  display:flex;
+  /* justify-content: space-between; */
+  flex-direction: column;
+
+
+}
 .change-version {
   display: flex;
   justify-content: space-between;
@@ -195,6 +202,10 @@ li:hover {
   width: 50px;
   height: 50px;
   border: 2px solid transparent;
+}
+.text-present {
+  margin: 0 auto;
+  margin-top: 10px;
 }
 
 
