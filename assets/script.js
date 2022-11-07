@@ -107,11 +107,6 @@ function largeur() {
        
 }
 
-//Check d3
-d3.select("body")
-    .append("div")
-    .text("Ok")
-    .attr("class", "check")
 
 //D3 barres
 function creationbarre() {
