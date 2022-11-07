@@ -110,7 +110,7 @@ function largeur() {
 //Check d3
 d3.select("body")
     .append("div")
-    .text("")
+    .text("Ok")
     .attr("class", "check")
 
 //D3 barres
@@ -128,7 +128,7 @@ function creationbarre() {
             .enter()
             .append("p")
             .attr("class", "barre")
-            .html((d, i) => `<img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt=""><div class="nomlegend">${d.Nom}</div> <div class="classlegend">${d[filtertable][namejson[iteration - 1]]}% </div> <div class="ranglegend">${i + 1}</div>   `)
+            .html((d, i) => `<div class="nomlegend">Nom: ${d.Nom}</div> <div class="ranglegend"> Rang:${i + 1}</div> <div class="classlegend">${filtertable}:${d[filtertable][namejson[iteration - 1]]}% </div>   <img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt="">`)
         d3.select("#version")
             .html(namejson[iteration - 1])
         setTimeout(largeur, 300)
@@ -140,7 +140,13 @@ function creationbarre() {
 //const creationbarreinterval=setInterval(function(){creationbarre()}, 5000)
 document.addEventListener("DOMContentLoaded", function () {
     const url = window.location.href
-    filtertable=url.slice(window.location.href.indexOf("=")+1, window.location.href.length)
+    if(url.indexOf("=")>-1){
+        filtertable=url.slice(window.location.href.indexOf("=")+1, window.location.href.length)
+   console.log(filtertable);
+    }
+    else{
+        console.log(filtertable);
+    }
    
     setTimeout(insertionlegend, 300)
     
@@ -154,23 +160,3 @@ document.addEventListener("DOMContentLoaded", function () {
     })
 
 })
-
-
-
-//Fonction de mise à jour du graphique
-
-
-
-
-
-//on pourrait améliorer l'efficacité et le fonctionnement avec des promises de async sur le fetch
-
-
-
-
-//Pour chaque sort, on update les barres
-//Les hautes sont définis par le rangs*quelques choses qui permettent de changer la valeur du style top
-//Si on a pas de temps, entre chaque version on fait un opacity 0% width 0% puis suppresion et remplacement
-
-//https://stackoverflow.com/questions/25168086/sorting-objects-based-on-property-value-in-d3
-//https://observablehq.com/@d3/bar-chart-transitions
