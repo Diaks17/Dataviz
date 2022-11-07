@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/style2.css" />
+    <script defer src="./assets/d3.v7.min.js"></script>
+    <script defer src="./assets/script.js"></script> 
+    <!-- CSS only -->
+    
+    <title>DataViz</title>
+    <!-- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> -->
+</head>
+
+<body>
+    <main>
+        <header>
+            <div class="banner">
+                <video class="back-video" src="./lol_img/hero-0632cbf2872c5cc0dffa93d2ae8a29e8.webm"  autoplay muted loop></video>
+                <div class="laptop">
+                    <img src="./lol_img/laptop.png" alt="">
+                    <video src="./lol_img/hero-0632cbf2872c5cc0dffa93d2ae8a29e8.webm"  autoplay muted loop></video>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="menu">
+                <p>Filtrer par :</p>
+                <ul>
+                    <li>Win</li>
+                    <li>Pick</li>
+                    <li>Ban</li>
+                    <li>Kda</li>
+                </ul>
+            </div>
+            <img class="divider" src="./lol_img/divider-download.png" alt="" srcset="" width="100%" />
+        </header>
+        <div class="container">
+            <div class="lol_fighter">
+                <div class="akali">
+                    <img class="akali_cover" src="./lol_img/assassin-d64d3ffdda15e1eed637aefe6a2c7fee.png" alt=""
+                        srcset="" width="400" />
+                    <svg version="1.1" class="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+                        style="enable-background: new 0 0 1000 1000" xml:space="preserve">
+                        <!-- ring 3 -->
+                        <circle class="st1" cx="500" cy="500" r="320" />
+                        <circle class="st st--three" cx="500" cy="500" r="320" transform="rotate(0 500 500)" ;>
+                            <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                                from="0 500 500" to="-360 500 500" dur="10s" repeatCount="indefinite" />
+                        </circle>
+                        <circle class="st st--small" cx="500" cy="500" r="320" transform="rotate(0 500 500)" ;>
+                            <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                                from="0 500 500" to="360 500 500" dur="6s" repeatCount="indefinite" />
+                        </circle>
+                    </svg>
+                </div>
+                <img src="./lol_img/logo-1200-589b3ef693ce8a750fa4b4704f1e61f2.png" alt="" srcset="" height="300" />
+                <div class="yasuo">
+                    <img class="yasuo_cover" src="./lol_img/fighter-7a08920b696ecdb673edeeae1d3c616e.png" alt=""
+                        srcset="" width="400" />
+                    <svg version="1.1" class="Layer_1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+                        style="enable-background: new 0 0 1000 1000" xml:space="preserve">
+                        <!-- ring 3 -->
+                        <circle class="st1" cx="500" cy="500" r="320" />
+                        <circle class="st st--three" cx="500" cy="500" r="320" transform="rotate(0 500 500)" ;>
+                            <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                                from="0 500 500" to="-360 500 500" dur="10s" repeatCount="indefinite" />
+                        </circle>
+                        <circle class="st st--small" cx="500" cy="500" r="320" transform="rotate(0 500 500)" ;>
+                            <animateTransform attributeType="xml" attributeName="transform" type="rotate"
+                                from="0 500 500" to="360 500 500" dur="6s" repeatCount="indefinite" />
+                        </circle>
+                    </svg>
+                </div>
+            </div>
+            <div class="site-wrapper">
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Dropdown button
+                    </button>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </div>
+                <div id="namefilter">
+                    <ul>
+                        <!--Changer l'url du site-->
+                        <li ><a href="indexMe.html?type=Win">Win</a></li>
+                        <li ><a href="indexMe.html?type=Ban">Ban</a></li>
+                        <li ><a href="indexMe.html?type=Pick">Pick</a></li>
+                    </ul>
+                </div>
+                <div><span id="version"></span></div>
+                <div class="datacontainer">
+                    <span id="datachart"></span>
+                <div id="forward">→</div>
+                <div id="backward">←</div>
+                </div>
+            </div>
+        </main>
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+    </body>
+
+</html>

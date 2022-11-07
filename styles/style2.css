@@ -1,0 +1,33 @@
+.lol_fighter svg {
+  height: 600px;
+  width: 600px;
+}
+
+.st1 {
+  fill: none;
+  stroke: white;
+}
+
+.st {
+  fill: none;
+  stroke: #ecc572;
+  stroke-width: 1;
+  stroke-miterlimit: 10;
+}
+.st--three {
+  stroke-linecap: square;
+  stroke-dasharray: 320, 320;
+  stroke-width: 10;
+}
+.st--small {
+  stroke-linecap: square;
+  stroke-dasharray: 100, 200;
+  stroke-width: 5;
+}
+
+.st3 {
+  stroke-width: 1;
+  stroke-linecap: square;
+}
+
+/*# sourceMappingURL=style2.css.map */
