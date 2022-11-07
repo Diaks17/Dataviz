@@ -1,0 +1,37 @@
+body {
+  // background-color: #232323;
+  // text-align: center;
+}
+
+.lol_fighter svg {
+  height: 600px;
+  width: 600px;
+}
+.st1{
+  fill: none;
+  stroke: rgba(white, 1);
+}  
+
+
+.st{
+  fill: none;
+  stroke: rgba(#ECC572, 1);
+  stroke-width: 1;
+  stroke-miterlimit: 10;
+
+  &--three { 
+    stroke-linecap: square;
+    stroke-dasharray: 320, 320;
+    stroke-width: 10;
+  }
+  &--small { 
+    stroke-linecap: square;
+    stroke-dasharray: 100, 200;
+    stroke-width: 5;
+  }
+}
+
+.st3 {
+  stroke-width: 1;
+  stroke-linecap: square;
+}

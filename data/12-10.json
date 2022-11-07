@@ -1,0 +1,1914 @@
+﻿[
+        {
+            "Nom": "Aatrox",
+            "Rôle": "TOP",
+            "Win": "48.23%",
+            "Pick": "6.36%",
+            "Ban": "5.83%",
+            "Kda": "1.88"
+        },
+        {
+            "Nom": "Ahri",
+            "Rôle": "MID",
+            "Win": "50.70%",
+            "Pick": "10.48%",
+            "Ban": "10.29%",
+            "Kda": "2.72"
+        },
+        {
+            "Nom": "Akali",
+            "Rôle": "MID",
+            "Win": "47.42%",
+            "Pick": "6.03%",
+            "Ban": "13.84%",
+            "Kda": "2.32"
+        },
+        {
+            "Nom": "Akali",
+            "Rôle": "TOP",
+            "Win": "47.12%",
+            "Pick": "2.93%",
+            "Ban": "13.84%",
+            "Kda": "2.08"
+        },
+        {
+            "Nom": "Akshan",
+            "Rôle": "MID",
+            "Win": "49.50%",
+            "Pick": "3.11%",
+            "Ban": "8.64%",
+            "Kda": "2.23"
+        },
+        {
+            "Nom": "Akshan",
+            "Rôle": "TOP",
+            "Win": "51.55%",
+            "Pick": "1.49%",
+            "Ban": "8.64%",
+            "Kda": "2.03"
+        },
+        {
+            "Nom": "Alistar",
+            "Rôle": "SUPPORT",
+            "Win": "47.39%",
+            "Pick": "3.61%",
+            "Ban": "0.93%",
+            "Kda": "2.36"
+        },
+        {
+            "Nom": "Amumu",
+            "Rôle": "JUNGLE",
+            "Win": "48.93%",
+            "Pick": "2.54%",
+            "Ban": "1.10%",
+            "Kda": "2.51"
+        },
+        {
+            "Nom": "Amumu",
+            "Rôle": "SUPPORT",
+            "Win": "48.65%",
+            "Pick": "0.29%",
+            "Ban": "1.17%",
+            "Kda": "1.92"
+        },
+        {
+            "Nom": "Anivia",
+            "Rôle": "MID",
+            "Win": "51.80%",
+            "Pick": "3.79%",
+            "Ban": "4.21%",
+            "Kda": "2.74"
+        },
+        {
+            "Nom": "Anivia",
+            "Rôle": "SUPPORT",
+            "Win": "47.40%",
+            "Pick": "0.41%",
+            "Ban": "4.09%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Annie",
+            "Rôle": "MID",
+            "Win": "49.82%",
+            "Pick": "1.73%",
+            "Ban": "0.65%",
+            "Kda": "2.36"
+        },
+        {
+            "Nom": "Annie",
+            "Rôle": "SUPPORT",
+            "Win": "49.45%",
+            "Pick": "0.20%",
+            "Ban": "0.65%",
+            "Kda": "2.19"
+        },
+        {
+            "Nom": "Aphelios",
+            "Rôle": "ADC",
+            "Win": "45.96%",
+            "Pick": "5.67%",
+            "Ban": "0.90%",
+            "Kda": "1.96"
+        },
+        {
+            "Nom": "Ashe",
+            "Rôle": "ADC",
+            "Win": "51.85%",
+            "Pick": "7.15%",
+            "Ban": "1.09%",
+            "Kda": "2.46"
+        },
+        {
+            "Nom": "Ashe",
+            "Rôle": "SUPPORT",
+            "Win": "47.36%",
+            "Pick": "1.94%",
+            "Ban": "1.09%",
+            "Kda": "2.4"
+        },
+        {
+            "Nom": "Aurelion Sol",
+            "Rôle": "MID",
+            "Win": "49.61%",
+            "Pick": "1.24%",
+            "Ban": "0.41%",
+            "Kda": "2.49"
+        },
+        {
+            "Nom": "Azir",
+            "Rôle": "MID",
+            "Win": "48.34%",
+            "Pick": "2.68%",
+            "Ban": "0.54%",
+            "Kda": "2.3"
+        },
+        {
+            "Nom": "Bard",
+            "Rôle": "SUPPORT",
+            "Win": "50.81%",
+            "Pick": "3.66%",
+            "Ban": "0.50%",
+            "Kda": "3.07"
+        },
+        {
+            "Nom": "Blitzcrank",
+            "Rôle": "SUPPORT",
+            "Win": "50.82%",
+            "Pick": "6.42%",
+            "Ban": "15.65%",
+            "Kda": "2.44"
+        },
+        {
+            "Nom": "Brand",
+            "Rôle": "SUPPORT",
+            "Win": "51.17%",
+            "Pick": "3.78%",
+            "Ban": "5.14%",
+            "Kda": "1.93"
+        },
+        {
+            "Nom": "Brand",
+            "Rôle": "MID",
+            "Win": "53.43%",
+            "Pick": "1.11%",
+            "Ban": "5.58%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Braum",
+            "Rôle": "SUPPORT",
+            "Win": "50.74%",
+            "Pick": "2.46%",
+            "Ban": "0.33%",
+            "Kda": "2.9"
+        },
+        {
+            "Nom": "Caitlyn",
+            "Rôle": "ADC",
+            "Win": "46.65%",
+            "Pick": "8.47%",
+            "Ban": "5.85%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Camille",
+            "Rôle": "TOP",
+            "Win": "47.97%",
+            "Pick": "6.20%",
+            "Ban": "3.80%",
+            "Kda": "1.9"
+        },
+        {
+            "Nom": "Cassiopeia",
+            "Rôle": "MID",
+            "Win": "50.18%",
+            "Pick": "2.52%",
+            "Ban": "1.72%",
+            "Kda": "2.17"
+        },
+        {
+            "Nom": "Cassiopeia",
+            "Rôle": "TOP",
+            "Win": "50.42%",
+            "Pick": "0.50%",
+            "Ban": "1.66%",
+            "Kda": "1.88"
+        },
+        {
+            "Nom": "Cho'Gath",
+            "Rôle": "TOP",
+            "Win": "49.14%",
+            "Pick": "2.45%",
+            "Ban": "0.86%",
+            "Kda": "2.03"
+        },
+        {
+            "Nom": "Cho'Gath",
+            "Rôle": "MID",
+            "Win": "50.29%",
+            "Pick": "0.62%",
+            "Ban": "0.92%",
+            "Kda": "2.28"
+        },
+        {
+            "Nom": "Corki",
+            "Rôle": "MID",
+            "Win": "49.03%",
+            "Pick": "1.92%",
+            "Ban": "0.46%",
+            "Kda": "2.34"
+        },
+        {
+            "Nom": "Darius",
+            "Rôle": "TOP",
+            "Win": "51.37%",
+            "Pick": "8.20%",
+            "Ban": "17.63%",
+            "Kda": "1.9"
+        },
+        {
+            "Nom": "Diana",
+            "Rôle": "JUNGLE",
+            "Win": "50.82%",
+            "Pick": "8.00%",
+            "Ban": "8.76%",
+            "Kda": "2.5"
+        },
+        {
+            "Nom": "Diana",
+            "Rôle": "MID",
+            "Win": "51.79%",
+            "Pick": "1.43%",
+            "Ban": "8.76%",
+            "Kda": "2.13"
+        },
+        {
+            "Nom": "Dr. Mundo",
+            "Rôle": "TOP",
+            "Win": "51.80%",
+            "Pick": "2.31%",
+            "Ban": "1.36%",
+            "Kda": "2.3"
+        },
+        {
+            "Nom": "Draven",
+            "Rôle": "ADC",
+            "Win": "49.80%",
+            "Pick": "5.11%",
+            "Ban": "9.61%",
+            "Kda": "2.11"
+        },
+        {
+            "Nom": "Ekko",
+            "Rôle": "JUNGLE",
+            "Win": "51.81%",
+            "Pick": "4.51%",
+            "Ban": "3.13%",
+            "Kda": "2.83"
+        },
+        {
+            "Nom": "Ekko",
+            "Rôle": "MID",
+            "Win": "49.05%",
+            "Pick": "2.20%",
+            "Ban": "3.16%",
+            "Kda": "2.29"
+        },
+        {
+            "Nom": "Elise",
+            "Rôle": "JUNGLE",
+            "Win": "46.42%",
+            "Pick": "1.32%",
+            "Ban": "0.77%",
+            "Kda": "2.51"
+        },
+        {
+            "Nom": "Evelynn",
+            "Rôle": "JUNGLE",
+            "Win": "46.08%",
+            "Pick": "2.78%",
+            "Ban": "5.01%",
+            "Kda": "2.86"
+        },
+        {
+            "Nom": "Ezreal",
+            "Rôle": "ADC",
+            "Win": "48.79%",
+            "Pick": "19.40%",
+            "Ban": "5.62%",
+            "Kda": "2.48"
+        },
+        {
+            "Nom": "Fiddlesticks",
+            "Rôle": "JUNGLE",
+            "Win": "50.96%",
+            "Pick": "2.86%",
+            "Ban": "1.93%",
+            "Kda": "2.59"
+        },
+        {
+            "Nom": "Fiora",
+            "Rôle": "TOP",
+            "Win": "52.84%",
+            "Pick": "7.02%",
+            "Ban": "17.62%",
+            "Kda": "1.81"
+        },
+        {
+            "Nom": "Fizz",
+            "Rôle": "MID",
+            "Win": "50.53%",
+            "Pick": "3.28%",
+            "Ban": "5.18%",
+            "Kda": "2.5"
+        },
+        {
+            "Nom": "Galio",
+            "Rôle": "MID",
+            "Win": "50.72%",
+            "Pick": "2.40%",
+            "Ban": "0.42%",
+            "Kda": "2.65"
+        },
+        {
+            "Nom": "Galio",
+            "Rôle": "SUPPORT",
+            "Win": "48.33%",
+            "Pick": "0.56%",
+            "Ban": "0.42%",
+            "Kda": "2.32"
+        },
+        {
+            "Nom": "Gangplank",
+            "Rôle": "TOP",
+            "Win": "48.77%",
+            "Pick": "8.54%",
+            "Ban": "14.40%",
+            "Kda": "2.08"
+        },
+        {
+            "Nom": "Gangplank",
+            "Rôle": "MID",
+            "Win": "47.57%",
+            "Pick": "2.01%",
+            "Ban": "14.30%",
+            "Kda": "2.3"
+        },
+        {
+            "Nom": "Garen",
+            "Rôle": "TOP",
+            "Win": "50.86%",
+            "Pick": "5.99%",
+            "Ban": "3.10%",
+            "Kda": "2.05"
+        },
+        {
+            "Nom": "Gnar",
+            "Rôle": "TOP",
+            "Win": "49.34%",
+            "Pick": "3.18%",
+            "Ban": "0.64%",
+            "Kda": "2"
+        },
+        {
+            "Nom": "Gragas",
+            "Rôle": "MID",
+            "Win": "50.87%",
+            "Pick": "0.34%",
+            "Ban": "0.23%",
+            "Kda": "2.51"
+        },
+        {
+            "Nom": "Gragas",
+            "Rôle": "TOP",
+            "Win": "47.97%",
+            "Pick": "1.38%",
+            "Ban": "0.25%",
+            "Kda": "2.05"
+        },
+        {
+            "Nom": "Gragas",
+            "Rôle": "SUPPORT",
+            "Win": "45.65%",
+            "Pick": "0.38%",
+            "Ban": "0.23%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Gragas",
+            "Rôle": "JUNGLE",
+            "Win": "46.95%",
+            "Pick": "0.56%",
+            "Ban": "0.23%",
+            "Kda": "2.67"
+        },
+        {
+            "Nom": "Graves",
+            "Rôle": "JUNGLE",
+            "Win": "49.37%",
+            "Pick": "10.68%",
+            "Ban": "12.97%",
+            "Kda": "2.56"
+        },
+        {
+            "Nom": "Graves",
+            "Rôle": "TOP",
+            "Win": "48.12%",
+            "Pick": "2.00%",
+            "Ban": "12.97%",
+            "Kda": "1.79"
+        },
+        {
+            "Nom": "Gwen",
+            "Rôle": "TOP",
+            "Win": "49.93%",
+            "Pick": "7.31%",
+            "Ban": "4.80%",
+            "Kda": "1.79"
+        },
+        {
+            "Nom": "Gwen",
+            "Rôle": "JUNGLE",
+            "Win": "50.15%",
+            "Pick": "1.58%",
+            "Ban": "4.80%",
+            "Kda": "2.46"
+        },
+        {
+            "Nom": "Hecarim",
+            "Rôle": "JUNGLE",
+            "Win": "48.76%",
+            "Pick": "3.41%",
+            "Ban": "2.48%",
+            "Kda": "2.8"
+        },
+        {
+            "Nom": "Heimerdinger",
+            "Rôle": "MID",
+            "Win": "51.19%",
+            "Pick": "0.86%",
+            "Ban": "0.98%",
+            "Kda": "2"
+        },
+        {
+            "Nom": "Heimerdinger",
+            "Rôle": "ADC",
+            "Win": "49.84%",
+            "Pick": "0.22%",
+            "Ban": "0.87%",
+            "Kda": "2.15"
+        },
+        {
+            "Nom": "Heimerdinger",
+            "Rôle": "TOP",
+            "Win": "46.67%",
+            "Pick": "0.61%",
+            "Ban": "0.98%",
+            "Kda": "1.58"
+        },
+        {
+            "Nom": "Illaoi",
+            "Rôle": "TOP",
+            "Win": "49.88%",
+            "Pick": "2.81%",
+            "Ban": "4.41%",
+            "Kda": "1.42"
+        },
+        {
+            "Nom": "Irelia",
+            "Rôle": "TOP",
+            "Win": "49.08%",
+            "Pick": "5.07%",
+            "Ban": "19.45%",
+            "Kda": "1.53"
+        },
+        {
+            "Nom": "Irelia",
+            "Rôle": "MID",
+            "Win": "48.12%",
+            "Pick": "4.29%",
+            "Ban": "19.45%",
+            "Kda": "1.69"
+        },
+        {
+            "Nom": "Ivern",
+            "Rôle": "JUNGLE",
+            "Win": "48.54%",
+            "Pick": "1.12%",
+            "Ban": "0.40%",
+            "Kda": "3.29"
+        },
+        {
+            "Nom": "Ivern",
+            "Rôle": "SUPPORT",
+            "Win": "46.18%",
+            "Pick": "0.15%",
+            "Ban": "0.40%",
+            "Kda": "2.67"
+        },
+        {
+            "Nom": "Janna",
+            "Rôle": "SUPPORT",
+            "Win": "53.81%",
+            "Pick": "5.47%",
+            "Ban": "1.11%",
+            "Kda": "3.38"
+        },
+        {
+            "Nom": "Jarvan IV",
+            "Rôle": "JUNGLE",
+            "Win": "48.48%",
+            "Pick": "2.67%",
+            "Ban": "0.36%",
+            "Kda": "3.14"
+        },
+        {
+            "Nom": "Jax",
+            "Rôle": "TOP",
+            "Win": "49.52%",
+            "Pick": "6.30%",
+            "Ban": "10.48%",
+            "Kda": "1.63"
+        },
+        {
+            "Nom": "Jax",
+            "Rôle": "JUNGLE",
+            "Win": "51.42%",
+            "Pick": "1.16%",
+            "Ban": "9.45%",
+            "Kda": "2.12"
+        },
+        {
+            "Nom": "Jayce",
+            "Rôle": "TOP",
+            "Win": "49.12%",
+            "Pick": "2.81%",
+            "Ban": "0.53%",
+            "Kda": "1.8"
+        },
+        {
+            "Nom": "Jayce",
+            "Rôle": "MID",
+            "Win": "50.82%",
+            "Pick": "0.55%",
+            "Ban": "0.52%",
+            "Kda": "2.13"
+        },
+        {
+            "Nom": "Jhin",
+            "Rôle": "ADC",
+            "Win": "51.59%",
+            "Pick": "16.40%",
+            "Ban": "4.18%",
+            "Kda": "3.03"
+        },
+        {
+            "Nom": "Jinx",
+            "Rôle": "ADC",
+            "Win": "50.23%",
+            "Pick": "10.16%",
+            "Ban": "1.99%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Kai'Sa",
+            "Rôle": "ADC",
+            "Win": "49.49%",
+            "Pick": "19.08%",
+            "Ban": "3.15%",
+            "Kda": "2.48"
+        },
+        {
+            "Nom": "Kalista",
+            "Rôle": "ADC",
+            "Win": "49.06%",
+            "Pick": "4.11%",
+            "Ban": "1.93%",
+            "Kda": "2.35"
+        },
+        {
+            "Nom": "Karma",
+            "Rôle": "SUPPORT",
+            "Win": "48.25%",
+            "Pick": "7.89%",
+            "Ban": "3.65%",
+            "Kda": "2.75"
+        },
+        {
+            "Nom": "Karma",
+            "Rôle": "MID",
+            "Win": "48.20%",
+            "Pick": "1.13%",
+            "Ban": "3.65%",
+            "Kda": "2.93"
+        },
+        {
+            "Nom": "Karthus",
+            "Rôle": "JUNGLE",
+            "Win": "48.35%",
+            "Pick": "3.01%",
+            "Ban": "7.12%",
+            "Kda": "2.53"
+        },
+        {
+            "Nom": "Karthus",
+            "Rôle": "ADC",
+            "Win": "53.50%",
+            "Pick": "0.61%",
+            "Ban": "6.08%",
+            "Kda": "2.29"
+        },
+        {
+            "Nom": "Karthus",
+            "Rôle": "MID",
+            "Win": "46.28%",
+            "Pick": "0.48%",
+            "Ban": "5.18%",
+            "Kda": "2.25"
+        },
+        {
+            "Nom": "Kassadin",
+            "Rôle": "MID",
+            "Win": "50.22%",
+            "Pick": "3.98%",
+            "Ban": "9.58%",
+            "Kda": "2.45"
+        },
+        {
+            "Nom": "Katarina",
+            "Rôle": "MID",
+            "Win": "47.79%",
+            "Pick": "8.46%",
+            "Ban": "14.19%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Kayle",
+            "Rôle": "TOP",
+            "Win": "52.03%",
+            "Pick": "8.03%",
+            "Ban": "10.07%",
+            "Kda": "1.87"
+        },
+        {
+            "Nom": "Kayle",
+            "Rôle": "MID",
+            "Win": "54.78%",
+            "Pick": "2.60%",
+            "Ban": "10.07%",
+            "Kda": "2.25"
+        },
+        {
+            "Nom": "Kayn",
+            "Rôle": "JUNGLE",
+            "Win": "50.45%",
+            "Pick": "10.02%",
+            "Ban": "11.61%",
+            "Kda": "2.44"
+        },
+        {
+            "Nom": "Kennen",
+            "Rôle": "MID",
+            "Win": "50.25%",
+            "Pick": "0.37%",
+            "Ban": "0.50%",
+            "Kda": "2.42"
+        },
+        {
+            "Nom": "Kennen",
+            "Rôle": "TOP",
+            "Win": "45.99%",
+            "Pick": "1.62%",
+            "Ban": "0.51%",
+            "Kda": "1.95"
+        },
+        {
+            "Nom": "Kha'Zix",
+            "Rôle": "JUNGLE",
+            "Win": "50.53%",
+            "Pick": "6.36%",
+            "Ban": "6.42%",
+            "Kda": "2.63"
+        },
+        {
+            "Nom": "Kindred",
+            "Rôle": "JUNGLE",
+            "Win": "51.88%",
+            "Pick": "5.20%",
+            "Ban": "3.97%",
+            "Kda": "2.3"
+        },
+        {
+            "Nom": "Kled",
+            "Rôle": "TOP",
+            "Win": "49.12%",
+            "Pick": "1.60%",
+            "Ban": "0.84%",
+            "Kda": "2.2"
+        },
+        {
+            "Nom": "Kog'Maw",
+            "Rôle": "ADC",
+            "Win": "54.22%",
+            "Pick": "7.28%",
+            "Ban": "5.15%",
+            "Kda": "2.34"
+        },
+        {
+            "Nom": "LeBlanc",
+            "Rôle": "MID",
+            "Win": "46.09%",
+            "Pick": "3.23%",
+            "Ban": "6.35%",
+            "Kda": "2.9"
+        },
+        {
+            "Nom": "Lee Sin",
+            "Rôle": "JUNGLE",
+            "Win": "44.98%",
+            "Pick": "10.14%",
+            "Ban": "7.55%",
+            "Kda": "2.56"
+        },
+        {
+            "Nom": "Leona",
+            "Rôle": "SUPPORT",
+            "Win": "49.02%",
+            "Pick": "6.64%",
+            "Ban": "8.12%",
+            "Kda": "2.32"
+        },
+        {
+            "Nom": "Lillia",
+            "Rôle": "JUNGLE",
+            "Win": "53.83%",
+            "Pick": "6.51%",
+            "Ban": "3.81%",
+            "Kda": "2.98"
+        },
+        {
+            "Nom": "Lillia",
+            "Rôle": "TOP",
+            "Win": "53.05%",
+            "Pick": "1.22%",
+            "Ban": "3.53%",
+            "Kda": "2.29"
+        },
+        {
+            "Nom": "Lissandra",
+            "Rôle": "MID",
+            "Win": "47.79%",
+            "Pick": "2.52%",
+            "Ban": "0.82%",
+            "Kda": "2.4"
+        },
+        {
+            "Nom": "Lucian",
+            "Rôle": "ADC",
+            "Win": "50.52%",
+            "Pick": "12.92%",
+            "Ban": "16.49%",
+            "Kda": "2.37"
+        },
+        {
+            "Nom": "Lulu",
+            "Rôle": "SUPPORT",
+            "Win": "49.81%",
+            "Pick": "11.19%",
+            "Ban": "17.34%",
+            "Kda": "3.11"
+        },
+        {
+            "Nom": "Lux",
+            "Rôle": "MID",
+            "Win": "52.10%",
+            "Pick": "4.70%",
+            "Ban": "9.03%",
+            "Kda": "2.97"
+        },
+        {
+            "Nom": "Lux",
+            "Rôle": "SUPPORT",
+            "Win": "48.59%",
+            "Pick": "9.23%",
+            "Ban": "9.03%",
+            "Kda": "2.48"
+        },
+        {
+            "Nom": "Malphite",
+            "Rôle": "TOP",
+            "Win": "51.99%",
+            "Pick": "3.58%",
+            "Ban": "3.57%",
+            "Kda": "2.5"
+        },
+        {
+            "Nom": "Malphite",
+            "Rôle": "MID",
+            "Win": "49.40%",
+            "Pick": "0.61%",
+            "Ban": "3.60%",
+            "Kda": "2.48"
+        },
+        {
+            "Nom": "Malphite",
+            "Rôle": "SUPPORT",
+            "Win": "47.16%",
+            "Pick": "0.74%",
+            "Ban": "3.64%",
+            "Kda": "2.13"
+        },
+        {
+            "Nom": "Malzahar",
+            "Rôle": "MID",
+            "Win": "50.72%",
+            "Pick": "3.53%",
+            "Ban": "3.24%",
+            "Kda": "2.24"
+        },
+        {
+            "Nom": "Maokai",
+            "Rôle": "SUPPORT",
+            "Win": "50.29%",
+            "Pick": "1.24%",
+            "Ban": "0.14%",
+            "Kda": "2.2"
+        },
+        {
+            "Nom": "Maokai",
+            "Rôle": "TOP",
+            "Win": "49.99%",
+            "Pick": "0.38%",
+            "Ban": "0.14%",
+            "Kda": "2.12"
+        },
+        {
+            "Nom": "Master Yi",
+            "Rôle": "JUNGLE",
+            "Win": "50.22%",
+            "Pick": "7.09%",
+            "Ban": "17.45%",
+            "Kda": "2.05"
+        },
+        {
+            "Nom": "Miss Fortune",
+            "Rôle": "ADC",
+            "Win": "51.29%",
+            "Pick": "9.50%",
+            "Ban": "2.87%",
+            "Kda": "2.35"
+        },
+        {
+            "Nom": "Mordekaiser",
+            "Rôle": "TOP",
+            "Win": "51.54%",
+            "Pick": "7.58%",
+            "Ban": "9.24%",
+            "Kda": "1.96"
+        },
+        {
+            "Nom": "Mordekaiser",
+            "Rôle": "JUNGLE",
+            "Win": "55.70%",
+            "Pick": "1.56%",
+            "Ban": "9.99%",
+            "Kda": "2.49"
+        },
+        {
+            "Nom": "Morgana",
+            "Rôle": "SUPPORT",
+            "Win": "50.63%",
+            "Pick": "6.62%",
+            "Ban": "22.25%",
+            "Kda": "2.56"
+        },
+        {
+            "Nom": "Nami",
+            "Rôle": "SUPPORT",
+            "Win": "51.40%",
+            "Pick": "11.40%",
+            "Ban": "6.35%",
+            "Kda": "3.3"
+        },
+        {
+            "Nom": "Nasus",
+            "Rôle": "TOP",
+            "Win": "51.97%",
+            "Pick": "4.04%",
+            "Ban": "3.64%",
+            "Kda": "1.95"
+        },
+        {
+            "Nom": "Nautilus",
+            "Rôle": "SUPPORT",
+            "Win": "49.47%",
+            "Pick": "10.58%",
+            "Ban": "17.19%",
+            "Kda": "2.32"
+        },
+        {
+            "Nom": "Neeko",
+            "Rôle": "MID",
+            "Win": "52.13%",
+            "Pick": "1.70%",
+            "Ban": "0.55%",
+            "Kda": "2.39"
+        },
+        {
+            "Nom": "Neeko",
+            "Rôle": "SUPPORT",
+            "Win": "50.91%",
+            "Pick": "0.75%",
+            "Ban": "0.61%",
+            "Kda": "2.14"
+        },
+        {
+            "Nom": "Neeko",
+            "Rôle": "TOP",
+            "Win": "50.98%",
+            "Pick": "0.25%",
+            "Ban": "0.54%",
+            "Kda": "2.02"
+        },
+        {
+            "Nom": "Nidalee",
+            "Rôle": "JUNGLE",
+            "Win": "45.89%",
+            "Pick": "3.69%",
+            "Ban": "2.95%",
+            "Kda": "2.81"
+        },
+        {
+            "Nom": "Nocturne",
+            "Rôle": "JUNGLE",
+            "Win": "52.31%",
+            "Pick": "4.52%",
+            "Ban": "4.80%",
+            "Kda": "2.66"
+        },
+        {
+            "Nom": "Nunu",
+            "Rôle": "JUNGLE",
+            "Win": "49.35%",
+            "Pick": "2.66%",
+            "Ban": "0.90%",
+            "Kda": "2.75"
+        },
+        {
+            "Nom": "Olaf",
+            "Rôle": "TOP",
+            "Win": "52.76%",
+            "Pick": "5.27%",
+            "Ban": "12.11%",
+            "Kda": "1.8"
+        },
+        {
+            "Nom": "Olaf",
+            "Rôle": "JUNGLE",
+            "Win": "47.49%",
+            "Pick": "2.77%",
+            "Ban": "12.11%",
+            "Kda": "2.23"
+        },
+        {
+            "Nom": "Orianna",
+            "Rôle": "MID",
+            "Win": "52.14%",
+            "Pick": "3.05%",
+            "Ban": "0.19%",
+            "Kda": "2.87"
+        },
+        {
+            "Nom": "Ornn",
+            "Rôle": "TOP",
+            "Win": "50.54%",
+            "Pick": "5.15%",
+            "Ban": "1.02%",
+            "Kda": "2.32"
+        },
+        {
+            "Nom": "Pantheon",
+            "Rôle": "MID",
+            "Win": "51.10%",
+            "Pick": "1.28%",
+            "Ban": "1.26%",
+            "Kda": "2.3"
+        },
+        {
+            "Nom": "Pantheon",
+            "Rôle": "SUPPORT",
+            "Win": "46.61%",
+            "Pick": "2.24%",
+            "Ban": "1.18%",
+            "Kda": "1.9"
+        },
+        {
+            "Nom": "Pantheon",
+            "Rôle": "TOP",
+            "Win": "49.83%",
+            "Pick": "0.96%",
+            "Ban": "1.26%",
+            "Kda": "2.03"
+        },
+        {
+            "Nom": "Poppy",
+            "Rôle": "JUNGLE",
+            "Win": "48.10%",
+            "Pick": "2.18%",
+            "Ban": "1.68%",
+            "Kda": "2.49"
+        },
+        {
+            "Nom": "Poppy",
+            "Rôle": "TOP",
+            "Win": "48.25%",
+            "Pick": "1.24%",
+            "Ban": "1.68%",
+            "Kda": "2.12"
+        },
+        {
+            "Nom": "Pyke",
+            "Rôle": "SUPPORT",
+            "Win": "48.86%",
+            "Pick": "8.56%",
+            "Ban": "19.06%",
+            "Kda": "2.29"
+        },
+        {
+            "Nom": "Qiyana",
+            "Rôle": "MID",
+            "Win": "46.50%",
+            "Pick": "2.93%",
+            "Ban": "4.10%",
+            "Kda": "2.09"
+        },
+        {
+            "Nom": "Qiyana",
+            "Rôle": "JUNGLE",
+            "Win": "50.88%",
+            "Pick": "1.28%",
+            "Ban": "3.69%",
+            "Kda": "2.51"
+        },
+        {
+            "Nom": "Quinn",
+            "Rôle": "TOP",
+            "Win": "50.01%",
+            "Pick": "1.41%",
+            "Ban": "0.93%",
+            "Kda": "1.92"
+        },
+        {
+            "Nom": "Rakan",
+            "Rôle": "SUPPORT",
+            "Win": "46.81%",
+            "Pick": "4.05%",
+            "Ban": "0.26%",
+            "Kda": "2.77"
+        },
+        {
+            "Nom": "Rammus",
+            "Rôle": "JUNGLE",
+            "Win": "48.80%",
+            "Pick": "2.64%",
+            "Ban": "4.32%",
+            "Kda": "2.91"
+        },
+        {
+            "Nom": "Rek'Sai",
+            "Rôle": "JUNGLE",
+            "Win": "50.35%",
+            "Pick": "2.84%",
+            "Ban": "2.86%",
+            "Kda": "2.5"
+        },
+        {
+            "Nom": "Rell",
+            "Rôle": "SUPPORT",
+            "Win": "50.53%",
+            "Pick": "1.88%",
+            "Ban": "0.34%",
+            "Kda": "2.42"
+        },
+        {
+            "Nom": "Renata Glasc",
+            "Rôle": "SUPPORT",
+            "Win": "52.67%",
+            "Pick": "7.72%",
+            "Ban": "7.08%",
+            "Kda": "2.93"
+        },
+        {
+            "Nom": "Renekton",
+            "Rôle": "MID",
+            "Win": "52.57%",
+            "Pick": "0.46%",
+            "Ban": "1.97%",
+            "Kda": "2.09"
+        },
+        {
+            "Nom": "Renekton",
+            "Rôle": "TOP",
+            "Win": "46.85%",
+            "Pick": "3.07%",
+            "Ban": "1.93%",
+            "Kda": "1.85"
+        },
+        {
+            "Nom": "Rengar",
+            "Rôle": "JUNGLE",
+            "Win": "50.14%",
+            "Pick": "4.74%",
+            "Ban": "13.34%",
+            "Kda": "2.42"
+        },
+        {
+            "Nom": "Rengar",
+            "Rôle": "TOP",
+            "Win": "53.39%",
+            "Pick": "1.19%",
+            "Ban": "13.34%",
+            "Kda": "2.02"
+        },
+        {
+            "Nom": "Riven",
+            "Rôle": "TOP",
+            "Win": "47.23%",
+            "Pick": "4.91%",
+            "Ban": "3.65%",
+            "Kda": "1.81"
+        },
+        {
+            "Nom": "Rumble",
+            "Rôle": "MID",
+            "Win": "50.95%",
+            "Pick": "0.66%",
+            "Ban": "0.37%",
+            "Kda": "2.59"
+        },
+        {
+            "Nom": "Rumble",
+            "Rôle": "TOP",
+            "Win": "48.21%",
+            "Pick": "1.37%",
+            "Ban": "0.51%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Rumble",
+            "Rôle": "JUNGLE",
+            "Win": "45.82%",
+            "Pick": "0.26%",
+            "Ban": "0.40%",
+            "Kda": "2.59"
+        },
+        {
+            "Nom": "Ryze",
+            "Rôle": "MID",
+            "Win": "42.99%",
+            "Pick": "1.33%",
+            "Ban": "0.12%",
+            "Kda": "2.06"
+        },
+        {
+            "Nom": "Ryze",
+            "Rôle": "TOP",
+            "Win": "46.16%",
+            "Pick": "0.26%",
+            "Ban": "0.12%",
+            "Kda": "1.78"
+        },
+        {
+            "Nom": "Samira",
+            "Rôle": "ADC",
+            "Win": "48.89%",
+            "Pick": "11.64%",
+            "Ban": "22.08%",
+            "Kda": "2.21"
+        },
+        {
+            "Nom": "Sejuani",
+            "Rôle": "JUNGLE",
+            "Win": "48.48%",
+            "Pick": "2.29%",
+            "Ban": "0.39%",
+            "Kda": "3.11"
+        },
+        {
+            "Nom": "Sejuani",
+            "Rôle": "TOP",
+            "Win": "49.06%",
+            "Pick": "0.56%",
+            "Ban": "0.39%",
+            "Kda": "2.26"
+        },
+        {
+            "Nom": "Senna",
+            "Rôle": "SUPPORT",
+            "Win": "52.62%",
+            "Pick": "17.09%",
+            "Ban": "19.89%",
+            "Kda": "2.78"
+        },
+        {
+            "Nom": "Seraphine",
+            "Rôle": "SUPPORT",
+            "Win": "50.17%",
+            "Pick": "4.28%",
+            "Ban": "0.96%",
+            "Kda": "2.65"
+        },
+        {
+            "Nom": "Seraphine",
+            "Rôle": "MID",
+            "Win": "52.05%",
+            "Pick": "1.10%",
+            "Ban": "1.01%",
+            "Kda": "2.99"
+        },
+        {
+            "Nom": "Seraphine",
+            "Rôle": "ADC",
+            "Win": "53.20%",
+            "Pick": "1.11%",
+            "Ban": "0.96%",
+            "Kda": "3.04"
+        },
+        {
+            "Nom": "Sett",
+            "Rôle": "TOP",
+            "Win": "51.79%",
+            "Pick": "6.44%",
+            "Ban": "5.44%",
+            "Kda": "1.76"
+        },
+        {
+            "Nom": "Shaco",
+            "Rôle": "JUNGLE",
+            "Win": "50.99%",
+            "Pick": "5.13%",
+            "Ban": "15.60%",
+            "Kda": "2.81"
+        },
+        {
+            "Nom": "Shaco",
+            "Rôle": "SUPPORT",
+            "Win": "47.96%",
+            "Pick": "0.93%",
+            "Ban": "17.70%",
+            "Kda": "2.44"
+        },
+        {
+            "Nom": "Shen",
+            "Rôle": "TOP",
+            "Win": "51.81%",
+            "Pick": "3.84%",
+            "Ban": "0.87%",
+            "Kda": "2.96"
+        },
+        {
+            "Nom": "Shen",
+            "Rôle": "SUPPORT",
+            "Win": "46.80%",
+            "Pick": "0.45%",
+            "Ban": "0.88%",
+            "Kda": "2.65"
+        },
+        {
+            "Nom": "Shyvana",
+            "Rôle": "JUNGLE",
+            "Win": "53.84%",
+            "Pick": "4.94%",
+            "Ban": "2.73%",
+            "Kda": "2.93"
+        },
+        {
+            "Nom": "Shyvana",
+            "Rôle": "TOP",
+            "Win": "50.33%",
+            "Pick": "0.67%",
+            "Ban": "2.73%",
+            "Kda": "2.08"
+        },
+        {
+            "Nom": "Singed",
+            "Rôle": "TOP",
+            "Win": "52.95%",
+            "Pick": "2.24%",
+            "Ban": "0.82%",
+            "Kda": "2.2"
+        },
+        {
+            "Nom": "Singed",
+            "Rôle": "MID",
+            "Win": "54.62%",
+            "Pick": "0.58%",
+            "Ban": "0.82%",
+            "Kda": "2.86"
+        },
+        {
+            "Nom": "Sion",
+            "Rôle": "TOP",
+            "Win": "47.46%",
+            "Pick": "4.26%",
+            "Ban": "1.91%",
+            "Kda": "1.54"
+        },
+        {
+            "Nom": "Sivir",
+            "Rôle": "ADC",
+            "Win": "50.18%",
+            "Pick": "2.86%",
+            "Ban": "0.65%",
+            "Kda": "2.43"
+        },
+        {
+            "Nom": "Skarner",
+            "Rôle": "JUNGLE",
+            "Win": "50.41%",
+            "Pick": "1.02%",
+            "Ban": "0.24%",
+            "Kda": "2.83"
+        },
+        {
+            "Nom": "Skarner",
+            "Rôle": "TOP",
+            "Win": "48.15%",
+            "Pick": "0.27%",
+            "Ban": "0.21%",
+            "Kda": "2.31"
+        },
+        {
+            "Nom": "Sona",
+            "Rôle": "SUPPORT",
+            "Win": "52.72%",
+            "Pick": "4.57%",
+            "Ban": "0.63%",
+            "Kda": "3.02"
+        },
+        {
+            "Nom": "Soraka",
+            "Rôle": "SUPPORT",
+            "Win": "50.76%",
+            "Pick": "6.32%",
+            "Ban": "4.94%",
+            "Kda": "2.84"
+        },
+        {
+            "Nom": "Swain",
+            "Rôle": "MID",
+            "Win": "53.24%",
+            "Pick": "3.36%",
+            "Ban": "8.52%",
+            "Kda": "2.55"
+        },
+        {
+            "Nom": "Swain",
+            "Rôle": "TOP",
+            "Win": "51.35%",
+            "Pick": "2.40%",
+            "Ban": "8.52%",
+            "Kda": "2.11"
+        },
+        {
+            "Nom": "Swain",
+            "Rôle": "SUPPORT",
+            "Win": "49.58%",
+            "Pick": "4.29%",
+            "Ban": "8.52%",
+            "Kda": "2.47"
+        },
+        {
+            "Nom": "Swain",
+            "Rôle": "ADC",
+            "Win": "55.33%",
+            "Pick": "1.37%",
+            "Ban": "8.82%",
+            "Kda": "2.85"
+        },
+        {
+            "Nom": "Sylas",
+            "Rôle": "MID",
+            "Win": "49.72%",
+            "Pick": "6.76%",
+            "Ban": "4.39%",
+            "Kda": "2.11"
+        },
+        {
+            "Nom": "Sylas",
+            "Rôle": "TOP",
+            "Win": "48.57%",
+            "Pick": "0.91%",
+            "Ban": "4.40%",
+            "Kda": "1.79"
+        },
+        {
+            "Nom": "Syndra",
+            "Rôle": "MID",
+            "Win": "49.66%",
+            "Pick": "2.29%",
+            "Ban": "0.70%",
+            "Kda": "2.26"
+        },
+        {
+            "Nom": "Tahm Kench",
+            "Rôle": "TOP",
+            "Win": "46.99%",
+            "Pick": "2.34%",
+            "Ban": "2.78%",
+            "Kda": "2.26"
+        },
+        {
+            "Nom": "Tahm Kench",
+            "Rôle": "SUPPORT",
+            "Win": "48.18%",
+            "Pick": "1.20%",
+            "Ban": "2.64%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Tahm Kench",
+            "Rôle": "ADC",
+            "Win": "51.62%",
+            "Pick": "1.12%",
+            "Ban": "2.51%",
+            "Kda": "2.76"
+        },
+        {
+            "Nom": "Taliyah",
+            "Rôle": "MID",
+            "Win": "54.20%",
+            "Pick": "6.30%",
+            "Ban": "22.86%",
+            "Kda": "2.42"
+        },
+        {
+            "Nom": "Taliyah",
+            "Rôle": "JUNGLE",
+            "Win": "52.50%",
+            "Pick": "4.54%",
+            "Ban": "22.86%",
+            "Kda": "2.67"
+        },
+        {
+            "Nom": "Talon",
+            "Rôle": "JUNGLE",
+            "Win": "49.59%",
+            "Pick": "4.70%",
+            "Ban": "4.81%",
+            "Kda": "2.48"
+        },
+        {
+            "Nom": "Talon",
+            "Rôle": "MID",
+            "Win": "50.20%",
+            "Pick": "2.93%",
+            "Ban": "4.81%",
+            "Kda": "2.2"
+        },
+        {
+            "Nom": "Taric",
+            "Rôle": "SUPPORT",
+            "Win": "45.77%",
+            "Pick": "1.08%",
+            "Ban": "0.12%",
+            "Kda": "2.45"
+        },
+        {
+            "Nom": "Teemo",
+            "Rôle": "TOP",
+            "Win": "52.09%",
+            "Pick": "4.37%",
+            "Ban": "7.15%",
+            "Kda": "1.84"
+        },
+        {
+            "Nom": "Thresh",
+            "Rôle": "SUPPORT",
+            "Win": "47.77%",
+            "Pick": "7.99%",
+            "Ban": "2.22%",
+            "Kda": "2.61"
+        },
+        {
+            "Nom": "Tristana",
+            "Rôle": "ADC",
+            "Win": "50.72%",
+            "Pick": "8.02%",
+            "Ban": "4.18%",
+            "Kda": "2.34"
+        },
+        {
+            "Nom": "Tristana",
+            "Rôle": "MID",
+            "Win": "51.78%",
+            "Pick": "1.06%",
+            "Ban": "4.18%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Trundle",
+            "Rôle": "JUNGLE",
+            "Win": "52.72%",
+            "Pick": "3.00%",
+            "Ban": "2.29%",
+            "Kda": "2.7"
+        },
+        {
+            "Nom": "Trundle",
+            "Rôle": "TOP",
+            "Win": "52.58%",
+            "Pick": "1.01%",
+            "Ban": "2.39%",
+            "Kda": "1.75"
+        },
+        {
+            "Nom": "Tryndamere",
+            "Rôle": "TOP",
+            "Win": "47.92%",
+            "Pick": "2.48%",
+            "Ban": "7.33%",
+            "Kda": "1.65"
+        },
+        {
+            "Nom": "Twisted Fate",
+            "Rôle": "MID",
+            "Win": "48.52%",
+            "Pick": "3.62%",
+            "Ban": "0.23%",
+            "Kda": "2.44"
+        },
+        {
+            "Nom": "Twitch",
+            "Rôle": "ADC",
+            "Win": "51.27%",
+            "Pick": "8.30%",
+            "Ban": "5.80%",
+            "Kda": "2.41"
+        },
+        {
+            "Nom": "Udyr",
+            "Rôle": "JUNGLE",
+            "Win": "48.08%",
+            "Pick": "1.98%",
+            "Ban": "0.57%",
+            "Kda": "2.52"
+        },
+        {
+            "Nom": "Urgot",
+            "Rôle": "TOP",
+            "Win": "52.51%",
+            "Pick": "2.81%",
+            "Ban": "1.70%",
+            "Kda": "1.99"
+        },
+        {
+            "Nom": "Varus",
+            "Rôle": "MID",
+            "Win": "50.32%",
+            "Pick": "0.33%",
+            "Ban": "0.23%",
+            "Kda": "2.18"
+        },
+        {
+            "Nom": "Varus",
+            "Rôle": "ADC",
+            "Win": "49.95%",
+            "Pick": "2.81%",
+            "Ban": "0.23%",
+            "Kda": "2.37"
+        },
+        {
+            "Nom": "Vayne",
+            "Rôle": "ADC",
+            "Win": "51.11%",
+            "Pick": "13.52%",
+            "Ban": "24.45%",
+            "Kda": "2.14"
+        },
+        {
+            "Nom": "Vayne",
+            "Rôle": "TOP",
+            "Win": "49.03%",
+            "Pick": "2.16%",
+            "Ban": "24.45%",
+            "Kda": "1.62"
+        },
+        {
+            "Nom": "Veigar",
+            "Rôle": "MID",
+            "Win": "53.21%",
+            "Pick": "7.06%",
+            "Ban": "6.86%",
+            "Kda": "2.45"
+        },
+        {
+            "Nom": "Veigar",
+            "Rôle": "ADC",
+            "Win": "51.05%",
+            "Pick": "1.37%",
+            "Ban": "6.86%",
+            "Kda": "2.51"
+        },
+        {
+            "Nom": "Vel'Koz",
+            "Rôle": "MID",
+            "Win": "51.36%",
+            "Pick": "1.51%",
+            "Ban": "0.59%",
+            "Kda": "2.77"
+        },
+        {
+            "Nom": "Vel'Koz",
+            "Rôle": "SUPPORT",
+            "Win": "51.50%",
+            "Pick": "2.01%",
+            "Ban": "0.59%",
+            "Kda": "2.33"
+        },
+        {
+            "Nom": "Vex",
+            "Rôle": "MID",
+            "Win": "50.61%",
+            "Pick": "4.15%",
+            "Ban": "7.33%",
+            "Kda": "2.45"
+        },
+        {
+            "Nom": "Vi",
+            "Rôle": "JUNGLE",
+            "Win": "54.11%",
+            "Pick": "3.97%",
+            "Ban": "1.25%",
+            "Kda": "2.55"
+        },
+        {
+            "Nom": "Viego",
+            "Rôle": "JUNGLE",
+            "Win": "50.78%",
+            "Pick": "13.51%",
+            "Ban": "10.31%",
+            "Kda": "2.5"
+        },
+        {
+            "Nom": "Viktor",
+            "Rôle": "MID",
+            "Win": "50.46%",
+            "Pick": "6.67%",
+            "Ban": "2.76%",
+            "Kda": "2.41"
+        },
+        {
+            "Nom": "Vladimir",
+            "Rôle": "MID",
+            "Win": "46.52%",
+            "Pick": "4.66%",
+            "Ban": "8.55%",
+            "Kda": "2.29"
+        },
+        {
+            "Nom": "Vladimir",
+            "Rôle": "TOP",
+            "Win": "47.38%",
+            "Pick": "1.78%",
+            "Ban": "8.55%",
+            "Kda": "1.98"
+        },
+        {
+            "Nom": "Volibear",
+            "Rôle": "JUNGLE",
+            "Win": "51.41%",
+            "Pick": "5.91%",
+            "Ban": "6.43%",
+            "Kda": "2.88"
+        },
+        {
+            "Nom": "Volibear",
+            "Rôle": "TOP",
+            "Win": "46.40%",
+            "Pick": "3.22%",
+            "Ban": "6.43%",
+            "Kda": "1.6"
+        },
+        {
+            "Nom": "Warwick",
+            "Rôle": "JUNGLE",
+            "Win": "52.05%",
+            "Pick": "4.95%",
+            "Ban": "4.59%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Warwick",
+            "Rôle": "TOP",
+            "Win": "49.54%",
+            "Pick": "1.03%",
+            "Ban": "4.55%",
+            "Kda": "1.83"
+        },
+        {
+            "Nom": "Wukong",
+            "Rôle": "JUNGLE",
+            "Win": "53.73%",
+            "Pick": "10.64%",
+            "Ban": "16.61%",
+            "Kda": "2.92"
+        },
+        {
+            "Nom": "Wukong",
+            "Rôle": "TOP",
+            "Win": "52.93%",
+            "Pick": "2.97%",
+            "Ban": "16.61%",
+            "Kda": "2.21"
+        },
+        {
+            "Nom": "Xayah",
+            "Rôle": "ADC",
+            "Win": "49.07%",
+            "Pick": "6.06%",
+            "Ban": "1.18%",
+            "Kda": "2.39"
+        },
+        {
+            "Nom": "Xerath",
+            "Rôle": "MID",
+            "Win": "50.97%",
+            "Pick": "2.82%",
+            "Ban": "4.29%",
+            "Kda": "3.37"
+        },
+        {
+            "Nom": "Xerath",
+            "Rôle": "SUPPORT",
+            "Win": "51.87%",
+            "Pick": "3.72%",
+            "Ban": "4.29%",
+            "Kda": "2.76"
+        },
+        {
+            "Nom": "Xin Zhao",
+            "Rôle": "JUNGLE",
+            "Win": "47.66%",
+            "Pick": "2.18%",
+            "Ban": "0.87%",
+            "Kda": "2.21"
+        },
+        {
+            "Nom": "Yasuo",
+            "Rôle": "MID",
+            "Win": "50.10%",
+            "Pick": "12.03%",
+            "Ban": "24.14%",
+            "Kda": "1.77"
+        },
+        {
+            "Nom": "Yasuo",
+            "Rôle": "TOP",
+            "Win": "48.31%",
+            "Pick": "2.53%",
+            "Ban": "25.37%",
+            "Kda": "1.49"
+        },
+        {
+            "Nom": "Yasuo",
+            "Rôle": "ADC",
+            "Win": "46.25%",
+            "Pick": "2.52%",
+            "Ban": "24.14%",
+            "Kda": "1.88"
+        },
+        {
+            "Nom": "Yone",
+            "Rôle": "MID",
+            "Win": "49.45%",
+            "Pick": "9.24%",
+            "Ban": "15.30%",
+            "Kda": "1.9"
+        },
+        {
+            "Nom": "Yone",
+            "Rôle": "TOP",
+            "Win": "50.39%",
+            "Pick": "4.79%",
+            "Ban": "15.30%",
+            "Kda": "1.71"
+        },
+        {
+            "Nom": "Yorick",
+            "Rôle": "TOP",
+            "Win": "48.82%",
+            "Pick": "2.53%",
+            "Ban": "3.33%",
+            "Kda": "1.49"
+        },
+        {
+            "Nom": "Yuumi",
+            "Rôle": "SUPPORT",
+            "Win": "48.13%",
+            "Pick": "10.92%",
+            "Ban": "25.91%",
+            "Kda": "4.17"
+        },
+        {
+            "Nom": "Zac",
+            "Rôle": "JUNGLE",
+            "Win": "50.70%",
+            "Pick": "4.14%",
+            "Ban": "3.00%",
+            "Kda": "3.5"
+        },
+        {
+            "Nom": "Zed",
+            "Rôle": "MID",
+            "Win": "49.47%",
+            "Pick": "7.13%",
+            "Ban": "31.39%",
+            "Kda": "2.27"
+        },
+        {
+            "Nom": "Zed",
+            "Rôle": "JUNGLE",
+            "Win": "48.63%",
+            "Pick": "2.13%",
+            "Ban": "31.39%",
+            "Kda": "2.63"
+        },
+        {
+            "Nom": "Zeri",
+            "Rôle": "ADC",
+            "Win": "45.56%",
+            "Pick": "4.07%",
+            "Ban": "2.28%",
+            "Kda": "2.14"
+        },
+        {
+            "Nom": "Ziggs",
+            "Rôle": "MID",
+            "Win": "52.47%",
+            "Pick": "0.95%",
+            "Ban": "0.36%",
+            "Kda": "2.54"
+        },
+        {
+            "Nom": "Ziggs",
+            "Rôle": "ADC",
+            "Win": "49.10%",
+            "Pick": "1.37%",
+            "Ban": "0.36%",
+            "Kda": "2.47"
+        },
+        {
+            "Nom": "Zilean",
+            "Rôle": "SUPPORT",
+            "Win": "52.32%",
+            "Pick": "3.35%",
+            "Ban": "2.06%",
+            "Kda": "3.32"
+        },
+        {
+            "Nom": "Zilean",
+            "Rôle": "MID",
+            "Win": "53.84%",
+            "Pick": "0.78%",
+            "Ban": "1.74%",
+            "Kda": "3.75"
+        },
+        {
+            "Nom": "Zoe",
+            "Rôle": "MID",
+            "Win": "47.69%",
+            "Pick": "4.46%",
+            "Ban": "1.86%",
+            "Kda": "2.52"
+        },
+        {
+            "Nom": "Zyra",
+            "Rôle": "SUPPORT",
+            "Win": "49.54%",
+            "Pick": "3.48%",
+            "Ban": "1.95%",
+            "Kda": "2.18"
+        }
+    ]
