@@ -123,7 +123,7 @@ function creationbarre() {
             .enter()
             .append("p")
             .attr("class", "barre")
-            .html((d, i) => `<img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt=""><div class="nomlegend">${d.Nom}</div> <div class="ranglegend"> Rang:${i + 1}</div> <div class="classlegend">${filtertable}:${d[filtertable][namejson[iteration - 1]]}% </div>   `)
+            .html((d, i) => `<img src="https://www.mobafire.com/images/champion/square/${d.Nom.replace(" ", "-").replace("'", "").toLowerCase()}.png" alt=""><div class="nomlegend">${d.Nom}</div> <div class="ranglegend"> Rang:${i + 1}</div> <div class="classlegend">${filtertable}:<br>${d[filtertable][namejson[iteration - 1]]}% </div>   `)
         d3.select("#version")
             .html(namejson[iteration - 1])
         setTimeout(largeur, 300)
